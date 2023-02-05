@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GregoryTomy.
 - I am an Applied Mathematics graduate student with a keen interest in Baysean statistics and deep learning.
 - I used to work in finance, where I had my initial exposure to programming and data science.
-- I code and explore systems programming through Rust as a hobby. 
 - I have a dog named Simba. 
 <!---
 GregoryTomy/GregoryTomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
