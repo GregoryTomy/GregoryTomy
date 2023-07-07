@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GregoryTomy.
-- I am an Applied Mathematics graduate student with a keen interest in Baysean statistics and deep learning.
+- I am an Applied Mathematics graduate student with a keen interest in statistics, machine learning, and machnine learning engineering.
 - I used to work in finance, where I had my initial exposure to programming and data science.
 - I have a dog named Simba. 
 <!---
