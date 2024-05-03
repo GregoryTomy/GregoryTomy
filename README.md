@@ -19,8 +19,8 @@ I am a graduating Master's student at the University of Colorado Boulder, specia
   Further expanding RAG-based LLM skills whilst exploring graph data science.<br><br>
 
 <p align="center">
-   <a href="https://github.com/GregoryTomy/hotel-llmops">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=hotel-llmops&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="hotel-llmops">
+   <a href="https://github.com/GregoryTomy/hospital-llmops">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=hospital-llmops&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="hospital-llmops">
   </a>
 </p>
 </details>
