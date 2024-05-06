@@ -2,7 +2,7 @@
 
 **`Data Craftsman (ML | Bayesian Statistics | Causal Inference)`**
 
-I am a graduating Master's student at the University of Colorado Boulder, specializing in Applied Mathematics with a focus on Statistics and Machine Learning, set to graduate in May 2024. I bring over three years of professional work experience in financial data analysis and have completed multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.<br><br> As my graduation approaches, I am actively seeking full-time opportunities in Data Science and Machine Learning Engineering, with a particular interest in LLMOps.
+I am a graduating Master's student at the University of Colorado Boulder, specializing in Applied Mathematics with a focus on Statistics and Machine Learning, set to graduate in May 2024. I bring over three years of professional work experience in financial data analysis and have completed multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.<br><br> As my graduation approaches, I am actively seeking full-time opportunities in Data Science and Machine Learning Engineering, with a particular interest in MLOps and LLMOps.
 
 [![Resume](https://img.shields.io/badge/Resume-blue)](Gregory_Tomy_Resume_42024.pdf)
 ---
