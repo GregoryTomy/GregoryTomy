@@ -42,11 +42,13 @@ I am actively seeking full-time opportunities in Data Science and Machine Learni
   <a href="https://github.com/GregoryTomy/causal-inference">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=causal-inference&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="causal-inference">
   </a>
+    <a href="https://github.com/GregoryTomy/Bayesian-Networks">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Bayesian-Networks&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bayesian-Networks">
+  </a>
   <a href="https://github.com/GregoryTomy/asset-backed-security-modelling">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=asset-backed-security-modelling&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="asset-backed-security-modelling">
   </a>
 </p>
-
 
 </details>
 
