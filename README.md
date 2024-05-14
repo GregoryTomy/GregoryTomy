@@ -2,7 +2,9 @@
 
 **`Data Craftsman (ML | Bayesian Statistics | Causal Inference)`**
 
-I am a recent graduate with a Master's degree in Applied Mathematics, specializing in Statistics and Data Science, from the University of Colorado Boulder. I bring over three years of professional work experience in financial data analysis and have completed multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.
+I am a recent graduate with a Master's degree in Applied Mathematics, specializing in Statistics and Data Science, from the University of Colorado Boulder.<br><br> I bring over three years of professional work experience in financial data analysis and have completed multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.
+
+I am actively seeking full-time opportunities in Data Science and Machine Learning Engineering, with a particular interest in Causal Inference and MLOps.
 
 [![Resume](https://img.shields.io/badge/Resume-blue)](Gregory_Tomy_Resume_42024.pdf)
 ---
