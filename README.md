@@ -18,7 +18,7 @@ I am actively seeking full-time opportunities in Data Science and Machine Learni
 
 <details open> 
   <summary><h2> Current Project </h2></summary>
-  Further expanding RAG-based LLM skills whilst exploring graph data science.<br><br>
+  Exploring A/B testing under the Bayesian framework.<br><br>
 
 <p align="center">
    <a href="https://github.com/GregoryTomy/ab-testing">
