@@ -18,11 +18,17 @@ I am actively seeking full-time opportunities in Data Science and Machine Learni
 
 <details open> 
   <summary><h2> Current Project </h2></summary>
-  Exploring A/B testing under the Bayesian framework.<br><br>
+  <br><br>
 
 <p align="center">
-   <a href="https://github.com/GregoryTomy/ab-testing">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=ab-testing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ab-testing">
+   <a href="https://github.com/GregoryTomy/recommender">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=recommender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="recommender">
+  </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/GregoryTomy/churn-analysis">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=churn-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="churn-analysis">
   </a>
 </p>
 </details>
@@ -45,8 +51,8 @@ I am actively seeking full-time opportunities in Data Science and Machine Learni
     <a href="https://github.com/GregoryTomy/Bayesian-Networks">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Bayesian-Networks&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bayesian-Networks">
   </a>
-  <a href="https://github.com/GregoryTomy/asset-backed-security-modelling">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=asset-backed-security-modelling&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="asset-backed-security-modelling">
+  <a href="https://github.com/GregoryTomy/ab-testing">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=ab-testing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ab-testing">
   </a>
 </p>
 
