@@ -4,9 +4,14 @@
 
 I am a recent graduate with a Master's degree in Applied Mathematics, specializing in Statistics and Data Science, from the University of Colorado Boulder.<br><br> I bring over three years of professional work experience in financial data analysis and have completed multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.
 
-I am actively seeking full-time opportunities in Data Science and Machine Learning Engineering, with a particular interest in Causal Inference and MLOps.
+**I am actively seeking full-time opportunities in Data Science and Machine Learning, with a particular interest in Causal Inference and Natural Language Processing.**
+
 
 [![Resume](https://img.shields.io/badge/Resume-blue)](Gregory_Tomy_Resume_52024.pdf)
+
+## [July Update]
+For the months of July and August, I will be dedicating my time to exploring and advancing my knowledge in Natural Language Processing (NLP). This includes working on various NLP projects, experimenting with different models and techniques, and contributing to related open-source projects. Stay tuned for updates and progress!
+
 ---
 
 ## 🌐 Socials:
@@ -18,19 +23,8 @@ I am actively seeking full-time opportunities in Data Science and Machine Learni
 
 <details open> 
   <summary><h2> Current Project </h2></summary>
-  <br><br>
 
-<p align="center">
-   <a href="https://github.com/GregoryTomy/recommender">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=recommender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="recommender">
-  </a>
-</p>
 
-<p align="center">
-   <a href="https://github.com/GregoryTomy/churn-analysis">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=churn-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="churn-analysis">
-  </a>
-</p>
 </details>
 
 <details open> 
