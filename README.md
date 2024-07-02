@@ -23,8 +23,11 @@ For the months of July and August, I will be dedicating my time to exploring and
 
 <details open> 
   <summary><h2> Current Project </h2></summary>
-
-
+  <p align="center">
+<a href="https://github.com/GregoryTomy/nlp-search-tool">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=nlp-search-tool&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nlp-search-tool">
+  </a>
+</p>
 </details>
 
 <details open> 
