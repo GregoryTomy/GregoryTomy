@@ -7,7 +7,7 @@ I am a recent graduate with a Master's degree in Applied Mathematics, specializi
 **I am actively seeking full-time opportunities in Data Science and Machine Learning, with a particular interest in Causal Inference and Natural Language Processing.**
 
 
-[![Resume](https://img.shields.io/badge/Resume-blue)](Gregory_Tomy_Resume_52024.pdf)
+[![Resume](https://img.shields.io/badge/Resume-blue)](Gregory_Tomy_Resume_4.pdf)
 
 ---
 
