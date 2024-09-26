@@ -1,10 +1,10 @@
 ![](header.png)
 
-**`Data Craftsman (ML | Bayesian Statistics | Causal Inference)`**
+**`Data Craftsman (Bayesian Statistics | Data Engineer)`**
 
-I am a recent graduate with a Master's degree in Applied Mathematics, specializing in Statistics and Data Science, from the University of Colorado Boulder.<br><br> I bring over three years of professional work experience in financial data analysis and have completed multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.
+I am a recent graduate with a Master's degree in Applied Mathematics, specializing in Statistics and Data Science, from the University of Colorado Boulder. I am a Statistician and Data Engineer, bringing over three years of professional work experience in financial data analysis and multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.
 
-**I am actively seeking full-time opportunities in Data Science and Data Engineering**
+**I am actively seeking full-time opportunities in Data Science and Data Engineering, with a focus on deepening my expertise in data engineering.**
 
 
 [![Resume](https://img.shields.io/badge/Resume-blue)](Gregory_Tomy_Resume_4.pdf)
@@ -21,8 +21,8 @@ I am a recent graduate with a Master's degree in Applied Mathematics, specializi
 <details open> 
   <summary><h2> Current Project </h2></summary>
   <p align="center">
-<a href="https://github.com/GregoryTomy/portfolio-tracking-dbt">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=portfolio-tracking-dbt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio-tracking-dbt">
+<a href="https://github.com/GregoryTomy/chi-traffic-de">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=chi-traffic-de&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chi-traffic-de">
   </a>
 </p>
 </details>
@@ -33,8 +33,8 @@ I am a recent graduate with a Master's degree in Applied Mathematics, specializi
   <!-- Repo info cards -t https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-    <a href="https://github.com/GregoryTomy/ab-testing">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=ab-testing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ab-testing">
+    <a href="https://github.com/GregoryTomy/portfolio-tracking-dbt">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=portfolio-tracking-dbt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio-tracking-dbt">
   </a>
 
    <a href="https://github.com/GregoryTomy/wine-llmops">
