@@ -24,7 +24,7 @@ I am a recent graduate with a Master's degree in Applied Mathematics, specializi
 <a href="https://github.com/GregoryTomy/chi-traffic-de">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=chi-traffic-de&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chi-traffic-de">
   </a>
-    <a href="https://github.com/GregoryTomy/chi-traffic-gcp">
+<a href="https://github.com/GregoryTomy/chi-traffic-gcp">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=chi-traffic-gcp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chi-traffic-gcp">
 </p>
 </details>
