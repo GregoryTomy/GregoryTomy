@@ -1,6 +1,6 @@
 ![](header.png)
 
-**`Bayesian Statistics | Data Engineer**
+**Bayesian Statistics | Data Engineer**
 
 I am a recent graduate with a Master's degree in Applied Mathematics, specializing in Statistics and Data Science, from the University of Colorado Boulder. I am a Statistician and Data Engineer, bringing over three years of professional work experience in financial data analysis and multiple internships at notable organizations, including technology manufacturing at GlobalFoundries, research at Sandia National Labs, and healthcare analytics at CVS Health.
 
