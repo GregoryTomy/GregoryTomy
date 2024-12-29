@@ -38,7 +38,9 @@ I am a recent graduate with a Master's degree in Applied Mathematics, specializi
 <details open> 
   <summary><h2> Current Project </h2></summary>
   <p align="center">
-
+ <a href="https://github.com/GregoryTomy/Spark-Data-Engineering">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Spark-Data-Engineering&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Spark-Data-Engineering">
+  </a>
 </p>
 </details>
 
