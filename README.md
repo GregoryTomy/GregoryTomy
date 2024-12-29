@@ -38,11 +38,7 @@ I am a recent graduate with a Master's degree in Applied Mathematics, specializi
 <details open> 
   <summary><h2> Current Project </h2></summary>
   <p align="center">
-<a href="https://github.com/GregoryTomy/chi-traffic-de">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=chi-traffic-de&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chi-traffic-de">
-  </a>
-<a href="https://github.com/GregoryTomy/chi-traffic-gcp">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=chi-traffic-gcp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chi-traffic-gcp">
+
 </p>
 </details>
 
@@ -52,25 +48,26 @@ I am a recent graduate with a Master's degree in Applied Mathematics, specializi
   <!-- Repo info cards -t https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-    <a href="https://github.com/GregoryTomy/portfolio-tracking-dbt">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=portfolio-tracking-dbt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio-tracking-dbt">
+  <a href="https://github.com/GregoryTomy/chi-traffic-de">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=chi-traffic-de&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="chi-traffic-de">
   </a>
-
-   <a href="https://github.com/GregoryTomy/wine-llmops">
+     <a href="https://github.com/GregoryTomy/wine-llmops">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=wine-llmops&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="wine-llmops">
   </a>
-  <a href="https://github.com/GregoryTomy/lung-nodule-classifier">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=lung-nodule-classifier&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="lung-nodule-classifier">
-  </a>
-  <a href="https://github.com/GregoryTomy/causal-inference">
+    <a href="https://github.com/GregoryTomy/causal-inference">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=causal-inference&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="causal-inference">
-  </a>
-     <a href="https://github.com/GregoryTomy/hospital-llmops">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=hospital-llmops&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="hospital-llmops">
   </a>
     <a href="https://github.com/GregoryTomy/Bayesian-Networks">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Bayesian-Networks&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bayesian-Networks">
   </a>
+    <a href="https://github.com/GregoryTomy/lung-nodule-classifier">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=lung-nodule-classifier&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="lung-nodule-classifier">
+  </a>
+    <a href="https://github.com/GregoryTomy/portfolio-tracking-dbt">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=portfolio-tracking-dbt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio-tracking-dbt">
+  </a>
+
+
 </p>
 
 </details>
