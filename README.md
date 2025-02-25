@@ -56,8 +56,8 @@
      <a href="https://github.com/GregoryTomy/wine-llmops">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=wine-llmops&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="wine-llmops">
   </a>
-    <a href="https://github.com/GregoryTomy/causal-inference">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=causal-inference&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="causal-inference">
+    <a href="https://github.com/GregoryTomy/Causal-Discount-Optimization">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Causal-Discount-Optimization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Causal-Discount-Optimization">
   </a>
     <a href="https://github.com/GregoryTomy/Bayesian-Networks">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Bayesian-Networks&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bayesian-Networks">
