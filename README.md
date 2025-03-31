@@ -1,6 +1,6 @@
 ![](header.png)
 
-## **Bayesian Statistics | Causal Inference | Data Engineer**
+## **AI Engineer | Data Engineer**
 
 
 [![Resume](https://img.shields.io/badge/Resume-blue)](Gregory_Tomy_Resume.pdf)
@@ -31,14 +31,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<details open> 
-  <summary><h2> Current Project </h2></summary>
-  <p align="center">
- <a href="https://github.com/GregoryTomy/Causal-AI-Numpyro">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Causal-AI-Numpyro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Causal-AI-Numpyro">
-  </a>
-</p>
-</details>
 
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
