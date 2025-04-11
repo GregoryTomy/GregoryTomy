@@ -39,7 +39,8 @@
    <a href="https://github.com/GregoryTomy/Colorado-State-Tax-RAG">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Colorado-State-Tax-RAG&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Colorado-State-Tax-RAG">
   </a>
-
+</p>
+</details>
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
 
