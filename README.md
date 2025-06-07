@@ -36,8 +36,8 @@
   <summary><h2>Current Project</h2></summary>
   
 <p align="center">
-   <a href="https://github.com/GregoryTomy/Colorado-State-Tax-RAG">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=Colorado-State-Tax-RAG&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Colorado-State-Tax-RAG">
+   <a href="https://github.com/GregoryTomy/MovieStore">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoryTomy&repo=MovieStore&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MovieStore">
   </a>
 </p>
 </details>
